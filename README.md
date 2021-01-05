@@ -35,7 +35,7 @@ Eclipse와 Oracle의 연동
 
 - 구현기능
 
-![image](https://user-images.githubusercontent.com/71308649/103635763-53825c00-4f8c-11eb-9c1c-38d82e9e8f39.png)
+![image](https://user-images.githubusercontent.com/71308649/103637143-6138e100-4f8e-11eb-85b2-6d10cd9dfacf.png)
 
 ### 4. 개발일정
 
