@@ -28,7 +28,7 @@ Eclipse와 Oracle의 연동
 
 ### 3. 구현
 
-- 시연영상
+- 시연영상 (클릭시 영상재생)
 <a href = "https://user-images.githubusercontent.com/71308649/103636185-fa66f800-4f8c-11eb-8061-686e18e9d565.mp4">
   <img src = "https://user-images.githubusercontent.com/71308649/103636315-23878880-4f8d-11eb-8b7d-b76e2147a518.png">
 </a>
