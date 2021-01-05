@@ -44,3 +44,11 @@ Eclipse와 Oracle의 연동
 ### 5. 팀원 소개
 
 ![image](https://user-images.githubusercontent.com/71308649/103635771-58471000-4f8c-11eb-8bcc-96e4b3d5e046.png)
+
+### 진행중 작성 문서들
+
+1. 프로젝트 기획서
+2. 데이터베이스 요구사항 분석서
+3. 요구사항 정의서
+4. 테이블명세서
+5. 프로젝트 회의록
